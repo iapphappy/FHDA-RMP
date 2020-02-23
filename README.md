@@ -1,11 +1,8 @@
 # Rate-My-Professor-Extension
 
-This Google Chrome extension uses the Rate My Professor API to request information about each professor on the BYU registration page.  It retrieves the information based on the professor's name.  No information will be shown if the professor's name is misspelled or absent from the Rate My Professor database.
+Get your potential professor's rating easily on the De Anzas registration page.
+Get your potential professor's rating easily on both the FHDA myPortal registration page. For those who are lazy or want to automate some of the work of researching teacher! Uses the ratemyprofessor API.
 
-A rating will be added to the table of professors that links to that professor's rating page on ratemyprofessor.com.  When the user places his/her mouse over the rating, a tooltip is generated with more information, so that the user does not need to click the link unless they want more details.
+Currently works for both De Anza and Foothill.
+Only works on "Look up classes" and not "Open Class Finder"
 
-I used the Tooltipster JQuery Plugin to help generate the tooltips.
-
-<a href="https://chrome.google.com/webstore/detail/rate-my-byu-professors/ghokpcnkghnkfofadiajmmhinooijmaf">Here</a> is the listing on the Chrome Web Store.
-
-![Screenshot](Images/ratemyprofimage.jpeg)
